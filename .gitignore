@@ -1,0 +1,12 @@
+/.DS_Store
+/.vscode
+/__pycache__
+/chromedriver
+/github-stugcekaraman.png
+/github.com-homepage.png
+/github.py
+/githubUserInfo.py
+/instagramUserInfo.py
+/navigating.py
+/selectors.html
+/selenium-basics.py
